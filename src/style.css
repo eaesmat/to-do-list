@@ -14,8 +14,7 @@ main {
   display: flex;
   flex-direction: column;
   margin: 50px auto;
-  background-color: white;
-  padding-top: 50px;
+  background-color: rgb(188, 225, 227);
 }
 
 h3 {
