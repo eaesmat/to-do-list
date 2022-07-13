@@ -44,9 +44,8 @@ git clone https://github.com/eaesmat/to-do-list.git
 
 ### Run tests
 
-$ npm install
-$ npm run build
-$ npm run start
+- $ npm install
+- $ npm run build
 
 ### Deployment
 - Already done! You can access using the live demo link
