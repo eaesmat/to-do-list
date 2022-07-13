@@ -12,33 +12,41 @@
 - JavaScript
 - Webpack
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://eaesmat.github.io/to-do-list/))
+[Live Demo Link](https://eaesmat.github.io/to-do-list/)
 
 
 ## Getting Started
 
 **This is how you may give instructions on setting up the project locally.**
-**The project is set up using webpack. Therefore, to get started, add a package.json file to the project by passing this command to the terminal: npm init -y. Thereafter, webpack must be installed. Follow this link (Getting Started) for detailed instructions on how to set up webpack.**
+
+The project is set up using webpack. Therefore, to get started, add a package.json file to the project by passing this command to the terminal: npm init -y. Thereafter, webpack must be installed. Follow this link (Getting Started) for detailed instructions on how to set up webpack.
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
 - Code Editor
 - Webpack
 - Know Git and GitHub
 
 ### Setup locally 
+
 - Copy HTTPS of repo
 - Clone it on your local machin
 
 ### Or Run this line
+
 git clone https://github.com/eaesmat/to-do-list.git
 
 
 ### Run tests
+
+$ npm install
+$ npm run build
+$ npm run start
 
 ### Deployment
 - Already done! You can access using the live demo link
