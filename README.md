@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: To Do List
+# To Do List
 
 > A simple To Do List app to store your daily activites. This app will be able to give you facilities to add remove and manage you daily tasks.
 
