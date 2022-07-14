@@ -58,7 +58,7 @@ git clone https://github.com/eaesmat/to-do-list.git
 
 - GitHub: [@Esmatullah Ahamdzai](https://github.com/eaesmat)
 - Twitter: [@Esmatullah Ahamdzai](https://twitter.com/ea_ahmadzai)
-- LinkedIn: [@Esmatullah Ahamdzai](https://www.linkedin.com/in/esmatullah-ahmadzai-589523230/))
+- LinkedIn: [@Esmatullah Ahamdzai](https://www.linkedin.com/in/esmatullah-ahmadzai-589523230/)
 
 ## 🤝 Contributing
 
