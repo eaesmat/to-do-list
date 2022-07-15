@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgb(218, 229, 233);
+  background-color: rgb(249, 252, 253);
   font-family: sans-serif;
 }
 
@@ -14,8 +14,7 @@ main {
   display: flex;
   flex-direction: column;
   margin: 50px auto;
-  background-color: rgb(179, 255, 244);
-  margin-top: 150px;
+  background-color: white;
 }
 
 h3 {
@@ -51,6 +50,7 @@ button {
   position: absolute;
   right: 10px;
   border: none;
+  padding: 9px;
 }
 
 .fa-icon {

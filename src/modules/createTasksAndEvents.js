@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-cycle
 import { OneTaskListItem, MyToDo } from './todoObjectClass.js';
 
 const listContainer = document.querySelector('.listContainer');
@@ -44,7 +43,7 @@ const createTodoListComponents = (todoListComponent) => {
   // hide delete button
   deleteButton.style.display = 'none';
   oneTask.appendChild(deleteButton);
-  ellipsis.addEventListener('click', () => {
+  ellipsis.addEventListener('click', (e) => {
     const siblingDeleteBtn = document.getElementsByClassName(
       `deleteButton ${todoListComponent.index}`,
     )[0];
