@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-cycle
 import createTodoListComponents from './createTasksAndEvents.js';
 import MyToDoList from './mainContainerClass.js';
 // initiate new instance of main class container
@@ -57,7 +58,7 @@ class OneTaskListItem {
   displayToDoList = () => {
     const listContainer = document.querySelector('.listContainer');
     listContainer.innerHTML = '';
-    JSON.parse(localStorage.getItem('todotasks')).forEach((task, index) => {
+    JSON.parse(localStorage.getItem('todotasks')).forEach((task) => {
       createTodoListComponents(task);
     });
   };
