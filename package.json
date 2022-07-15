@@ -1,5 +1,5 @@
 {
-  "name": "webpack-project--to-do-list",
+  "name": "to-do-list",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TracK92/Webpack-Project--To-Do-List.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TracK92/Webpack-Project--To-Do-List/issues"
+    "url": "https://github.com/eaesmat/to-do-list/issues"
   },
-  "homepage": "https://github.com/TracK92/Webpack-Project--To-Do-List#readme",
+  "homepage": "",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
