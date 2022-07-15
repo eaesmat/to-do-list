@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgba(223, 211, 211, 0.952);
+  background-color: rgb(218, 229, 233);
   font-family: sans-serif;
 }
 
@@ -14,8 +14,8 @@ main {
   display: flex;
   flex-direction: column;
   margin: 50px auto;
-  background-color: rgb(188, 225, 227);
-  margin-top: 120px;
+  background-color: rgb(179, 255, 244);
+  margin-top: 150px;
 }
 
 h3 {
@@ -31,20 +31,37 @@ ul {
   flex-direction: column;
 }
 
+.inputtext {
+  border: none;
+  padding: 3px;
+  font-size: 1.2rem;
+  min-width: 100%;
+}
+
 li {
+  list-style: none;
   margin: 10px 0;
   padding: 10px;
   border-bottom: 1px lightgray solid;
   position: relative;
+  display: flex;
 }
 
-li:last-child {
-  margin-bottom: 0;
+button {
+  position: absolute;
+  right: 10px;
+  border: none;
 }
 
 .fa-icon {
   position: absolute;
   right: 10px;
+  border: none;
+  padding: 0 5px;
+}
+
+li:last-child {
+  margin-bottom: 0;
 }
 
 #add::placeholder {
@@ -58,13 +75,14 @@ li:last-child {
   border-bottom: 1px lightgray solid;
 }
 
-.checkbox {
+.checkboxitem {
   margin-right: 10px;
 }
 
 .clear {
   text-align: center;
   color: gray;
+  cursor: pointer;
 }
 
 .clearlist {
@@ -73,4 +91,20 @@ li:last-child {
   align-items: center;
   justify-content: center;
   height: 50px;
+}
+
+.editdiv {
+  display: none;
+}
+
+.inputextedit {
+  padding: 10px 0;
+  border: none;
+  font-size: 1.2rem;
+  width: 80%;
+}
+
+.taskdiv {
+  display: flex;
+  width: 90%;
 }
