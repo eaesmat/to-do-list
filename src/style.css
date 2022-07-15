@@ -113,7 +113,6 @@ html {
   display: none;
 }
 
-
 @keyframes refresh {
   from {
     transform: rotate(0deg);
@@ -177,8 +176,6 @@ html {
 }
 
 .footer {
-  /* background-image: linear-gradient(0deg, orange, 10%, rgb(146, 206, 255)); */
- 
   padding: 3rem 0;
   display: flex;
   justify-content: center;
