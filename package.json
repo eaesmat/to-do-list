@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alanluqman/to-do-list.git"
+    "url": "git+https://github.com/eaesmat/to-do-list"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alanluqman/to-do-list/issues"
+    "url": "https://github.com/eaesmat/to-do-listissues"
   },
-  "homepage": "https://github.com/alanluqman/to-do-list#readme",
+  "homepage": "https://github.com/eaesmat/to-do-list#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
