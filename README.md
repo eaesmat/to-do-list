@@ -11,6 +11,7 @@
 - CSS
 - JavaScript
 - Webpack
+- Modules
 
 ## Live Demo
 
