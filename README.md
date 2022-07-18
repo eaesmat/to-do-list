@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://eaesmat.github.io/to-do-list/)
+[Live Demo Link](https://eaesmat.github.io/to-do-list/dist/)
 
 
 ## Getting Started
